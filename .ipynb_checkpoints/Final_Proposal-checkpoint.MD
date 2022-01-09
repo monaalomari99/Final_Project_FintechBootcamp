@@ -7,22 +7,29 @@
 5. Zainab Aljohani
 
 
-**Project: Stock Price Prediction – Machine Learning**
+**Project: Predict Future Stock Prices – Machine Learning**
  
 ## What is your project?
  
-Our project aims to find out how we can stock price prediction, as we know accurate prediction of stock market returns is a very challenging task due to depends on various factors including but not limited to geopolitics, global economy, company financial reports and performance, etc. 
-In this project, we chose machine learning by using Python, so we can work with historical data about the stock prices of a publicly listed company. We will implement a mix of machine learning algorithms to predict the future stock price of this company, starting with simple algorithms like averaging and linear regression, and then move on to advanced techniques like using the LSTM neural network.
+Our project aims to find out how we can predict stock price, as we know accurate prediction of stock market returns is a very challenging task due to depends on various factors including but not limited to geopolitics, global economy, company financial reports and performance, etc. 
+In this project, we chose machine learning by using Python, so we can work with historical data about the stock prices of a publicly listed company for example Apple, Google, Microsoft, and CSCO. We will implement a mix of machine learning algorithms to predict the future stock price of this company, starting with simple algorithms like averaging and linear regression, and then move on to advanced techniques like using the LSTM neural network.
+
  
 ## What is required in order to complete project? 
  
-1. Get Trade Data from Yahoo Finance 
+1. Get Trade Data from Yahoo Finance (Apple) 
 2. Data Exploration
 3. Data Visualization
 4. Splitting Data into a Training set and a Test set
 5. Normalizing the Data
 6. Build Machine Learning Model 
 7. Write and Run Backtest
+
+## Stretch Goals: 
+1. Prediction of the market capitalization of Bitcoin and other cryptocurrencies. 
+ 
+2. Graphic user interface by using tkinter or dash. 
+
  
  
 ## Project Methodology: 

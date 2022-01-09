@@ -7,7 +7,7 @@
 5. Zainab Aljohani
 
 
-**Project: Stock Price Prediction – Machine Learning**
+**Project: Predict Future Stock Prices – Machine Learning**
  
 ## What is your project?
  
@@ -28,7 +28,7 @@ In this project, we chose machine learning by using Python, so we can work with 
 ## Stretch Goals: 
 1. Prediction of the market capitalization of Bitcoin and other cryptocurrencies. 
  
-2. Graphic user interface by using tkinter and dash. 
+2. Graphic user interface by using tkinter or dash. 
 
  
  
